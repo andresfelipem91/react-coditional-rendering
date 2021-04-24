@@ -36,7 +36,7 @@ const CourseGradeGender = (props) => {
                
             
         </div>
-    )
+    );
 }
 
 export default CourseGradeGender;

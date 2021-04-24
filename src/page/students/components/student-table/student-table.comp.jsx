@@ -167,7 +167,7 @@ const StudentTable = () => {
 
            }} />
         </div>
-    )
+    );
 }
 
 export default StudentTable;

@@ -12,7 +12,7 @@ const FilterableStudentTable = () => {
            <StudentTable />
             
         </div>
-    )
+    );
 }
 
 export default FilterableStudentTable;

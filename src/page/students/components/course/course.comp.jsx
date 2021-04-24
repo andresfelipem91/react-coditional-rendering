@@ -11,7 +11,7 @@ const Course = (props) => {
            {props.courseName}
             
         </div>
-    )
+    );
 }
 
 export default Course;

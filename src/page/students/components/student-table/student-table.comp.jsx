@@ -10,9 +10,7 @@ import './student-table.style.css';
 const StudentTable = () => {
     return(
         <div className="student-table-container">
-           <div className="seach-input">
-              <input type="text" placeholder="seach..."/> 
-           </div>
+           
            <Course courseName="Profundizacion 1"/>
             <table>
                 <thead> 

@@ -1,7 +1,11 @@
 .filterable-student-table-container{
-    width: 25%;
-    margin: 0 auto;
-    margin-top: 50px;
-    min-height: 410px;
+    width: 15%;
+    margin-left: 60px;
+    margin-top: 30px;
+    min-height: 10px;
     border: 1px solid orange;
+}
+.seach-input{
+    margin-bottom: 10px;
+    
 }

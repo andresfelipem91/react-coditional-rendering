@@ -9,7 +9,9 @@ import './filterable-student-table.style.css';
 const FilterableStudentTable = () => {
     return(
         <div className="filterable-student-table-container">
-           <StudentTable />
+            <div className="seach-input">
+              <input type="text" placeholder="seach..."/> 
+           </div>
             
         </div>
     );
